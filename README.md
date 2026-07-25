@@ -43,12 +43,16 @@ A highly technical page built to investigate drivers of churn.
 
 * Market Shift (Ribbon Chart): Tracks the ranking and revenue shifts of top product categories over mature operational months.
 
+  ![Retention Drivers](Dashboard%20Images/Retention%20drivers%20and%20retention.png)
+
 ### 3. Page 3: Regional Profile (Hidden Drill-Through)
 An isolated reporting layer designed for targeted local analysis.
 
 * Stakeholders can right-click any state on the main dashboard to "drill through" to this hidden page.
 
 * Dynamically filters all KPIs, local catalog top-sellers, and revenue trends strictly to the selected region using advanced SELECTEDVALUE DAX measures.
+
+  ![Regional Deep Dive Drill Through](Dashboard%20Images/Regional%20deep%20dive%20drill%20through.png)
 
 ## Technical Stack & Skills Demonstrated
 Business Intelligence & Reporting
