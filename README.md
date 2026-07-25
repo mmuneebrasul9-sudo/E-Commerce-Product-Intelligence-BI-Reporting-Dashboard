@@ -59,9 +59,11 @@ Business Intelligence & Reporting
 
 * Tool: Power BI Desktop
 
-*Data Transformation: Power Query (ETL pipeline for cleaning and standardizing raw transaction data)
+* Data Transformation: Power Query (ETL pipeline for cleaning and standardizing raw transaction data)
 
 * Data Modeling: Optimized Star Schema architecture (Fact tables and Dimension tables)
+
+  ![Data Model Schema](Dashboard%20Images/Schema.png)
 
    * Advanced DAX (Data Analysis Expressions)
 
