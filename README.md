@@ -75,7 +75,7 @@ Engineered Cross-Filtering and Drill-Through functionalities.
 
 Implemented custom tooltip formatting and dynamic header generation.
 
-Designed a custom enterprise theme utilizing strategic highlighting (#0284C7, #F9A16C) over muted base metrics (#CBD5E1) to guide stakeholder focus.
+Designed a custom enterprise theme utilizing strategic to guide stakeholder focus.
 
 ## Dataset Information
 The dataset used for this BI application is the Olist E-Commerce Public Dataset.
